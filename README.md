@@ -8,11 +8,11 @@ The code is not like my other repos because it was made only for me. You can get
     <br />
     <a href="https://discord.cyberious.xyz">💬 Discord</a>
     ·
-    <a href="https://github.com/sexfrance/Webtoon-Promo-Gen#-changelog">📜 ChangeLog</a>
+    <a href="https://github.com/sexfrance/Webtoons-Promo-Gen#-changelog">📜 ChangeLog</a>
     ·
-    <a href="https://github.com/sexfrance/Webtoon-Promo-Gen/issues">⚠️ Report Bug</a>
+    <a href="https://github.com/sexfrance/Webtoons-Promo-Gen/issues">⚠️ Report Bug</a>
     ·
-    <a href="https://github.com/sexfrance/Webtoon-Promo-Gen/issues">💡 Request Feature</a>
+    <a href="https://github.com/sexfrance/Webtoons-Promo-Genn/issues">💡 Request Feature</a>
   </p>
 </div>
 
@@ -68,7 +68,7 @@ The code is not like my other repos because it was made only for me. You can get
 
 - This project is for education purposes **only** its goal is to understand webtoons' API better. I strongly suggest that you not use it to mass generate accounts and promos because it is against their [**terms of service**](https://www.webtoons.com/en/terms).
 - I am not responsible for anything that may happen, such as API Blocking, IP ban, etc.
-- This was a quick project that was made for fun and personal use if you want to see further updates, star the repo & create an "issue" [here](https://github.com/sexfrance/Webtoon-Promo-Gen/issues/)
+- This was a quick project that was made for fun and personal use if you want to see further updates, star the repo & create an "issue" [here](https://github.com/sexfrance/Webtoons-Promo-Gen/issues/)
 
 ---
 
@@ -82,7 +82,7 @@ v0.0.1 ⋮ 12/07/2024
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/sexfrance/Webtoon-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/stars/sexfrance/Webtoon-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/languages/top/sexfrance/Webtoon-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
+  <img src="https://img.shields.io/github/license/sexfrance/Webtoons-Promo-Gen.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/stars/sexfrance/Webtoons-Promo-Gen.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/languages/top/sexfrance/Webtoons-Promo-Gen.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
 </p>
