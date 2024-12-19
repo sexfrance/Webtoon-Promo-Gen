@@ -3,7 +3,7 @@
   <p align="center">
 This script is an asynchronous Webtoon account and discord promo code generator that features proxy support, RSA encryption, and efficient batch processing. It automatically creates Webtoon accounts, generates discord promotion codes, validates the entire process, and provides formatted output.
 
-**The code is not like my other repos because it was made only for me. You can get cancer reading the code (I will not pay for your chemotherapy), and there are no configs. **
+The code is not like my other repos because it was made only for me. You can get cancer reading the code (I will not pay for your chemotherapy), and there are no configs.
     <br />
     <br />
     <a href="https://discord.cyberious.xyz">💬 Discord</a>
