@@ -1,0 +1,9 @@
+aiohttp==3.7.4.post0
+beautifulsoup4==4.12.3
+logmagix==2.0.8
+MailTmWrapper==0.0.4
+pytz==2024.1
+random_header_generator==1.2
+Requests==2.32.3
+rsa==4.9
+tls_client==1.0.1
